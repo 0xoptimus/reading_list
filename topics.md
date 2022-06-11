@@ -12,3 +12,8 @@
 - [ ]  Sharding / Partitioning
 - [ ]  Connection Pooling
 - [ ]  DB Proxies
+
+
+# Other reads
+- https://dba.stackexchange.com/questions/271197/does-update-lock-the-row-or-the-entire-table
+- 
