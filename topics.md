@@ -9,3 +9,6 @@
 - [ ]  Disk I/0 & N/w I/0 Latencies
 - [ ]  Keep an eye on ACID, BASE and the use cases.
 - [ ]  Kernel / user level thread scheduling
+- [ ]  Sharding / Partitioning
+- [ ]  Connection Pooling
+- [ ]  DB Proxies
