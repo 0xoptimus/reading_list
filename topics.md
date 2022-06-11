@@ -1,6 +1,8 @@
 # Notable Topics
 
 - [ ]  Pessimistic & Optimistic Locking
+    -  Articles
+        -  https://stackoverflow.com/a/58952004/3841509
 - [ ]  why power of 2 is good for DB column optimization?
 - [ ]  Disk -  B-Tree representation
 - [ ]  Index - B-Tree representation
